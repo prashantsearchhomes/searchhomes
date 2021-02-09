@@ -10,8 +10,8 @@
 5. REGISTER THE MODELS IN admin.py AND CREATESUPERUSER TO IT.
    visit--> http://127.0.0.1:8000/admin and add details into each of the file.
    
-6. GO TO views.py file call home.html templates and enter the city, region and property name 
-7. then go to views.py in properties and we do filter operation and display in home.html with all details in it.
+6. GO TO views.py FILE CALL home.html TEMPLATES AND ENTER THE CITY, REGION AND PROPERTY NAME. 
+7. THEN GO TO views.py IN PROPERTIES AND WE DO FILTER OPERATION AND DISPLAY IN home.html WITH ALL DETAILS IN IT.
 
 
  
